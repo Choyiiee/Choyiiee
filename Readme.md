@@ -130,6 +130,6 @@ const choyiiee = {
 ╚══════════════════════════════════════════════╝
 ```
 
-*"Code is poetry written for machines, but read by humans."*
+*"Coding doesn't reward knowers; it rewards problem solvers. "*
 
 </div>
