@@ -73,10 +73,8 @@ const choyiiee = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Choyiiee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choyiiee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&langs_count=6" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Choyiiee&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Choyiiee&theme=tokyonight" />
 </div>
 
 ---
@@ -91,11 +89,10 @@ const choyiiee = {
 
 ---
 
-## 🏆 GitHub Trophies
-
+## 📈 Tech Usage
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Choyiiee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choyiiee&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 </div>
 
