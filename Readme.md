@@ -78,15 +78,6 @@ const choyiiee = {
 
 ---
 
-## 📈 Tech Usage
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choyiiee&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
