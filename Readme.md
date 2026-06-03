@@ -73,18 +73,7 @@ const choyiiee = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Choyiiee&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Choyiiee&theme=tokyonight" />
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Choyiiee&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FFD700&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=888888)](https://git.io/streak-stats)
-
 </div>
 
 ---
