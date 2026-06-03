@@ -110,3 +110,7 @@ const choyiiee = {
 *"Coding doesn't reward knowers; it rewards problem solvers. "*
 
 </div>
+
+<div align="center">
+  <img src="https://example.com/your-image.gif" width="500" alt="Description of GIF" />
+</div>
