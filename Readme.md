@@ -75,7 +75,7 @@ const choyiiee = {
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Choyiiee&theme=tokyonight" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=Choyiiee&theme=tokyonight&hide_border=true&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF&sideLabels=00D9FF" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Choyiiee&theme=tokyonight&hide_border=true" />
 </div>
 ---
 
