@@ -79,7 +79,7 @@ const choyiiee = {
 </div>
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Graphs
 
 <div align="center">
 
