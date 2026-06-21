@@ -35,7 +35,7 @@ const choyiiee = {
 };
 ```
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -78,7 +78,7 @@ const choyiiee = {
  <br/>
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Choyiiee&theme=tokyonight&hide_border=true" />
 </div>
----
+
 
 ## 📈 Contribution Graphs
 
