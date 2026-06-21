@@ -77,8 +77,6 @@ const choyiiee = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choyiiee&layout=compact&theme=tokyonight&langs_count=6" height="180px" />
  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Choyiiee&show_icons=true&theme=tokyonight" height="180px" />
- <br/>
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Choyiiee&theme=tokyonight&hide_border=true" />
 </div>
 ---
