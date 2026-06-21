@@ -79,7 +79,7 @@ const choyiiee = {
  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Choyiiee&show_icons=true&theme=tokyonight" height="180px" />
 </div>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Choyiiee&theme=tokyonight&hide_border=true" />
+ <center> <img src="https://github-readme-streak-stats-eight.vercel.app?user=Choyiiee&theme=tokyonight&hide_border=true" />
 </div>
 ---
 
