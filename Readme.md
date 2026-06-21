@@ -1,117 +1,59 @@
-<div align="center">
+# Hi, I'm Choyiiee 👋
 
-```
- ██████╗██╗  ██╗ ██████╗ ██╗   ██╗██╗██╗██╗███████╗███████╗
-██╔════╝██║  ██║██╔═══██╗╚██╗ ██╔╝██║██║██║██╔════╝██╔════╝
-██║     ███████║██║   ██║ ╚████╔╝ ██║██║██║█████╗  █████╗  
-██║     ██╔══██║██║   ██║  ╚██╔╝  ██║██║██║██╔══╝  ██╔══╝  
-╚██████╗██║  ██║╚██████╔╝   ██║   ██║██║██║███████╗███████╗
- ╚═════╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝╚═╝╚═╝╚══════╝╚══════╝
-```
-
-### ✦ Full-Stack Developer ✦
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+cool+things+on+the+web+%F0%9F%9A%80;React+%7C+Node.js+%7C+PostgreSQL+%F0%9F%94%A5;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
-
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/Choyiiee?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0d1117)](https://github.com/Choyiiee)
-[![GitHub stars](https://img.shields.io/github/stars/Choyiiee?label=Stars&style=for-the-badge&color=FFD700&labelColor=0d1117)](https://github.com/Choyiiee)
-![Profile Views](https://komarev.com/ghpvc/?username=Choyiiee&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
-
-</div>
+Full-Stack Developer passionate about building scalable, user-centric web applications. I specialize in modern JavaScript frameworks and backend systems that solve real-world problems.
 
 ---
 
-## ⚡ About Me
+## 🎯 About Me
 
-```javascript
-const choyiiee = {
-  username:   "Choyiiee",
-  role:       "Full-Stack Developer",
-  passion:    "Turning ideas into reality through code",
-  hobbies:    ["building side projects", "exploring new tech", "coffee ☕"],
-  currentlyLearning: ["TypeScript", "Docker", "System Design"],
-  openToWork: true,
-};
-```
+- **Current Focus**: Full-stack development with emphasis on system design and performance optimization
+- **Expertise**: React, Node.js, PostgreSQL, and cloud-based architectures
+- **Learning**: TypeScript, Docker, advanced system design patterns
+- **Open To**: Collaboration opportunities and challenging projects
+- **Based In**: Philippines
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Technical Skills
 
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+**Frontend Development**
+- React.js | JavaScript (ES6+) | HTML5 | CSS3
+- Responsive Design | Component Architecture
 
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
+**Backend Development**
+- Node.js | Express.js | Laravel | RESTful APIs
+- Database Design & Optimization
 
-### 🗄️ Database
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+**Databases**
+- PostgreSQL | SQL Query Optimization
 
-### 🧰 Tools & Platform
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+**Tools & Workflows**
+- Git & GitHub | VS Code | npm | Postman | API Testing
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Choyiiee&theme=tokyonight" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Choyiiee&theme=tokyonight&hide_border=true" />
-</div>
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Choyiiee&show_icons=true&theme=nord&hide_border=true&count_private=true)
 
-## 📈 Contribution Graphs
-
-<div align="center">
-
-[![Choyiiee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Choyiiee&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFD700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Choyiiee&layout=compact&theme=nord&hide_border=true)
 
 ---
 
-## 🌐 Let's Connect Here
+## 🚀 What I'm Working On
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Choyiiee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Choyiiee)
-
-</div>
+- Building production-ready applications with modern stack
+- Contributing to open-source projects
+- Documenting best practices and sharing knowledge
 
 ---
 
-<div align="center">
+## 📬 Let's Connect
 
-```
-╔══════════════════════════════════════════════╗
-║   Thanks for stopping by! Drop a ⭐ if you   ║
-║       find something interesting here        ║
-╚══════════════════════════════════════════════╝
-```
+<a href="https://github.com/Choyiiee" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" />
+</a>
 
-*"Coding doesn't reward knowers; it rewards problem solvers. "*
+---
 
-</div>
-
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWE0ZWZsejBwaDQxdmcwM3Y1MHNuM3F0YnA5a3E1OXVuaGVkZml0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufdipQqU2lhNA4g/giphy.gif" width="250" alt="Description of GIF" />
-</div>
+*"Code is written for humans first, machines second. Good code solves problems elegantly."*
