@@ -75,8 +75,9 @@ const choyiiee = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Choyiiee&theme=tokyonight" />
-  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choyiiee&layout=compact&theme=tokyonight&langs_count=6" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Choyiiee&show_icons=true&theme=tokyonight" height="180px" />
+</div>
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Choyiiee&theme=tokyonight&hide_border=true" />
 </div>
 ---
