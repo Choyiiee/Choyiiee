@@ -21,7 +21,6 @@
 
 </div>
 
----
 
 ## ⚡ About Me
 
@@ -71,7 +70,6 @@ const choyiiee = {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
----
 
 ## 📊 GitHub Stats
 
@@ -90,7 +88,7 @@ const choyiiee = {
 
 </div>
 
----
+
 
 ## 🌐 Let's Connect Here
 
@@ -100,7 +98,7 @@ const choyiiee = {
 
 </div>
 
----
+
 
 <div align="center">
 
