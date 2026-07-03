@@ -20,7 +20,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Choyiiee&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
 
 </div>
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 ### 🎨 Frontend
 <p>
