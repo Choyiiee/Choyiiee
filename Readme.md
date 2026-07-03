@@ -20,23 +20,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Choyiiee&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
 
 </div>
-
-
-## ⚡ About Me
-
-```javascript
-const choyiiee = {
-  username:   "Choyiiee",
-  role:       "Full-Stack Developer",
-  passion:    "Turning ideas into reality through code",
-  hobbies:    ["building side projects", "exploring new tech", "coffee ☕"],
-  currentlyLearning: ["TypeScript", "Docker", "System Design"],
-  openToWork: true,
-};
-```
-
-
-
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
