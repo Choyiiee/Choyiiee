@@ -89,7 +89,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   Thanks for stopping by Drop a ⭐ if you   ║
-║       find something interesting here.       ║
+║       find something interesting here. :D    ║
 ╚══════════════════════════════════════════════╝
 ```
 
